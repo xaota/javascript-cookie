@@ -1,0 +1,30 @@
+{
+  "name": "javascript-cookie",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "cookie browser api wrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xaota/javascript-cookie.git"
+  },
+  "keywords": [
+    "cookie",
+    "javascript",
+    "browser",
+    "es-module"
+  ],
+  "author": "https://github.com/xaota",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/xaota/javascript-cookie/issues"
+  },
+  "homepage": "https://github.com/xaota/javascript-cookie#readme",
+  "devDependencies": {
+    "eslint": "^6.3.0",
+    "babel-eslint": "^10.0.2"
+  }
+}
